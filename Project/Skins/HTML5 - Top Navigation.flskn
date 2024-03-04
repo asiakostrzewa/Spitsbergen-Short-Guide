@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Fluid Layout"
+  EnableResponsiveOutput="true"
+  RemoveImagesOnSave="true">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="trip thinkers logo_white on black.png">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</Resource>
+    </Resources>
+    <Styles>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="Navigation Slide Out Button">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Navigation Panel">
+          <Properties>
+            <Property
+              Name="BackgroundColor">#383d3b</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Navigation Panel Item">
+          <Properties>
+            <Property
+              Name="LineHeight">1</Property>
+            <Property
+              Name="Color">#ffffff</Property>
+            <Property
+              Name="BorderBottom">solid 1px #000000</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Search Filter">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Search Filter Drop-down">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Search Filter Drop-down (hover)">
+          <Properties></Properties>
+        </Style>
+      </Medium>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="Height">122px</Property>
+          <Property
+            Name="BackgroundColor">#383d3b</Property>
+          <Property
+            Name="BackgroundImage">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item">
+        <Classes>
+          <StyleClass
+            Name="2nd Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+              <Property
+                Name="MarginRight">0px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="3rd Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="4th Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+        <Properties></Properties>
+      </Style>
+      <Style
+        Name="Search Input">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#ffffff</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu">
+        <Properties>
+          <Property
+            Name="Float">right</Property>
+          <Property
+            Name="AlignmentHorizontal">right</Property>
+          <Property
+            Name="Order">2</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Submit Button">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#A4A9B5</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Bar">
+        <Properties>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="AlignmentVertical">top</Property>
+          <Property
+            Name="AlignmentHorizontal">left</Property>
+          <Property
+            Name="Stretch">no</Property>
+          <Property
+            Name="BackgroundImage">url('trip%20thinkers%20logo_white%20on%20black.png')</Property>
+          <Property
+            Name="Order">1</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Button">
+        <Properties>
+          <Property
+            Name="BackgroundRepeat">no-repeat</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <WebHelpOptions
+    NavigationPanePosition="Right" />
+  <Strings />
+  <ProxyOptions
+    FAQProxyViewMode="PlainText" />
+  <MicroContentOptions
+    FeaturedSnippetsViewMode="PlainText" />
+</CatapultSkin>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Cover page"
+    Link="/Content/Introduction/HomePDF.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayout/IvanhoePageLayout.flpgl"
+    ChapterNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.Printed" />
+  <TocEntry
+    Title="Table of contents"
+    Link="/Content/Introduction/PDFProxy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayout/IvanhoePageLayout.flpgl"
+    conditions="General.Printed" />
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/A_Introduction Topic/Introduction.htm"
+    StartSection="false"
+    BreakType="none"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayout/IvanhoePageLayout.flpgl"></TocEntry>
+  <TocEntry
+    Title="Tips &amp; tricks"
+    Link="/Content/B_Tips &amp; Tricks Topics/Tips &amp; ticks.htm">
+    <TocEntry
+      Title="Accommodation"
+      Link="/Content/B_Tips &amp; Tricks Topics/Accommodation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Food and restaurants"
+      Link="/Content/B_Tips &amp; Tricks Topics/Food and restaurants.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Media"
+      Link="/Content/B_Tips &amp; Tricks Topics/Media.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false" />
+    <TocEntry
+      Title="Nature"
+      Link="/Content/B_Tips &amp; Tricks Topics/Nature.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Polar day and night"
+      Link="/Content/B_Tips &amp; Tricks Topics/Polar day and night.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Politics"
+      Link="/Content/B_Tips &amp; Tricks Topics/Politics.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rules"
+      Link="/Content/B_Tips &amp; Tricks Topics/Rules.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transport"
+      Link="/Content/B_Tips &amp; Tricks Topics/Transport.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Good to know"
+    Link="/Content/C_Good To Know Topics/Good to know.htm">
+    <TocEntry
+      Title="Childless and immortal"
+      Link="/Content/C_Good To Know Topics/Childless and immortal.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Property"
+      Link="/Content/C_Good To Know Topics/Property.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Interesting facts"
+    Link="/Content/D_More Information/Interesting facts.htm"></TocEntry>
+</CatapultToc>
